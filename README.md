@@ -1,3 +1,5 @@
+![Logo](./assets/all%20purpose/wordmark%20dark%205.png)
+
 # ZaloSoft™ Brand Guide
 
 ## Assets
